@@ -1,3 +1,0 @@
-Simple bookmarking application made in Javascript. It uses localStorage for storing site name and URL!
-It uses simple validation which ensures that name field is filled and that valid URL is entered.
-All bookmarks are displayed on the page, and can be deleted.
